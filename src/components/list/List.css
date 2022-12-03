@@ -1,0 +1,32 @@
+.cardsBox {
+    margin: 2% auto 0 auto;
+    padding: 1vh 0;
+}
+
+.cardDiv {
+    width: 39.8vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 10% auto 5% auto;
+    padding-bottom: 8%;
+    border-bottom: 1px solid black;
+}
+
+.cardImg {
+    width: 80px;
+    margin-left: 9%;
+    border-radius: 5px;
+}
+
+.cardName {
+    text-align: left;
+    font-family: sans-serif;
+    width: 18%;
+    margin-left: 16%;
+}
+
+.cardPopularity {
+    font-family: sans-serif;
+    margin-left: 18%;
+}
